@@ -7,9 +7,9 @@ Download now and unlock your full cooking potential!
 
 ## General Attributes
 1. User has the ability to implement a list of food/ingredients into the app.
-2. User can can filter recipies by cusine type and complexity/cook time. 
+2. User can can filter recipies by cusine type, meal of the day, and complexity/cook time. 
 3. User can save/bookmark their favorite recipies to come back to later. 
-4. AI learns user's general patterns of food choices and recommend recipies.
+4. AI learns user's general patterns of food choices and recommend recipies (user can swipe left or right to enable this).
 5. "Signature Series" recipies from top chefs list great recipies to try at home.
 6. Users can create "food playlists" to accompany certain social events (i.e. Cinco De Mayo dinner, Birthday Bash, The Best BBQ etc...).
 
