@@ -12,3 +12,21 @@ Download now and unlock your full cooking potential!
 4. AI learns user's general patterns of food choices and recommend recipies.
 5. "Signature Series" recipies from top chefs list great recipies to try at home.
 6. Users can create "food playlists" to accompany certain social events (i.e. Cinco De Mayo dinner, Birthday Bash, The Best BBQ etc...).
+
+---
+
+## User Stories
+
+// TODO: Enumerate User Stories
+
+---
+
+## Wireframes
+
+// TODO: Add Wireframe Images
+
+---
+
+## App Pitch Presentation
+
+// TODO: Add link to Pitch Presentation Deck
