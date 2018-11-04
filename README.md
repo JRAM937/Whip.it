@@ -16,8 +16,67 @@ Download now and unlock your full cooking potential!
 ---
 
 ## User Stories
+**Required Must-have Stories**
 
-// TODO: Enumerate User Stories
+ * User can enter a list of food/ingredients into the app.
+ * User can see the results of a search
+ * User can select and 'bookmark' recipies.
+ * User can login/register/modify their account.
+ * User can access an overview of a selected recipe
+ 
+
+**Optional Nice-to-have Stories**
+
+ * User can access "Signature Series" recipies from a special tab
+ * User can make food "playlists" as well as access other people's playlists
+ * Social Media-style "like" and "share" features on main feed
+ 
+ ## 2. Screen Archetypes
+
+ * Login
+   * User can login to their account
+ * Register
+   * User can register their account
+* Profile
+    * User can modify their account
+* Creation
+    * User can enter a list of food/ingredients into the app
+* Stream
+    * User can select and 'bookmark' recipes
+    * User can see the results of a search
+    * User can access "Signature Series" recipies
+    * User can make food "playlists" as well as access other people's playlists
+    * Social Media-style "like" and "share" features on main feed
+* Info
+    * User can access an overview of a selected recipe
+
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * "Login" 
+     * Stream or Register (if user has/does not have an account)
+ * "Account"
+     * Profile
+ * "New Whip"
+     * Creation
+ * "Whip It!" (Inside "Creation" screen)
+     * Stream
+     * Info
+ 
+
+**Flow Navigation** (Screen to Screen)
+
+ * Stream
+   * Info
+ * Creation
+   * Stream
+* Info
+    * Info
+* Profile
+    * Profile
+ 
 
 ---
 
