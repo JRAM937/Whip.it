@@ -23,7 +23,7 @@ Download now and unlock your full cooking potential!
 
 ## Wireframes
 
-// TODO: Add Wireframe Images
+https://www.figma.com/file/0i6NzQjySiJCk5UkoejAal/Whip.it-Design?node-id=0%3A1
 
 ---
 
