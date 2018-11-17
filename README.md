@@ -1,4 +1,4 @@
-# Top Idea
+Projec# Top Idea
 Recipe App (Whip.it)
 
 ## Description:
@@ -22,8 +22,14 @@ Download now and unlock your full cooking potential!
 ---
 
 ## Wireframes
-
+Project link:
 https://www.figma.com/file/0i6NzQjySiJCk5UkoejAal/Whip.it-Design?node-id=0%3A1
+
+Wireframe Image:
+https://imgur.com/a/ZAMjPhj
+
+Demo GIF:
+https://imgur.com/a/WJUcJXb
 
 ---
 
