@@ -26,13 +26,13 @@ Project link:
 https://www.figma.com/file/0i6NzQjySiJCk5UkoejAal/Whip.it-Design?node-id=0%3A1
 
 Wireframe Image:
-https://imgur.com/a/ZAMjPhj
+https://imgur.com/a/QB8Paf9
 
 Demo GIF:
-https://imgur.com/a/WJUcJXb
+https://imgur.com/a/uDAgFG3
 
 ---
 
 ## App Pitch Presentation
 
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1Hz46pXE5gsDPUGt-6Fltd-lhlevP4qn3e83cJ7fmuP4/edit?usp=sharing
