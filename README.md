@@ -36,3 +36,6 @@ https://imgur.com/a/uDAgFG3
 ## App Pitch Presentation
 
 https://docs.google.com/presentation/d/1Hz46pXE5gsDPUGt-6Fltd-lhlevP4qn3e83cJ7fmuP4/edit?usp=sharing
+
+## App Presentation Video
+https://drive.google.com/open?id=1ZZbk3bDSXFYhNdjZnEbZrG72MPjhZ-Tz
